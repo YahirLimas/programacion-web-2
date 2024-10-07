@@ -32,12 +32,12 @@ label {
 }
 
 input {
-    width: calc(100% - 22px); /* Adjust width to account for padding and border */
+    width: calc(100% - 22px);
     padding: 10px;
     margin-bottom: 10px;
     border: 2px solid #1e90ff;
     border-radius: 5px;
-    box-sizing: border-box; /* Ensure padding and border are included in the width */
+    box-sizing: border-box;
 }
 
 button {
